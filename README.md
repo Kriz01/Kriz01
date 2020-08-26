@@ -1,13 +1,12 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-# Hey there 👋,
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 <p align='center'>
 <a href="https://www.instagram.com/kriz__19/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/krizeldias/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 
-My name is Krizel Dias and I'm a software engineer. I'm from Goa, and currently working at Persistent systems. You can find me on [![LinkedIn][3.2]][3].
+My name is Krizel Dias and I'm a software engineer. I'm from Goa, and currently working at Persistent systems.
 
 
 ## 🔧 Technologies & Tools
