@@ -27,7 +27,6 @@ My name is Krizel Dias and I'm a software engineer. I'm from Goa, and currently 
 
 
 <!-- links to your social media accounts -->
-[1]:
 [2]: https://github.com/Kriz01
 [3]: https://www.linkedin.com/in/krizeldias/
 
