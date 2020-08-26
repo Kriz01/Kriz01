@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Krizel Dias and I'm a software engineer. I'm from Goa, and currently working at Persistent systems. You can find me  on [![LinkedIn][3.2]][3].
+My name is Krizel Dias and I'm a software engineer. I'm from Goa, and currently working at Persistent systems. You can find me  on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 ## 🔧 Technologies & Tools
@@ -26,10 +26,11 @@ My name is Krizel Dias and I'm a software engineer. I'm from Goa, and currently 
 
 
 <!-- links to your social media accounts -->
+[1]:
+[2]: https://github.com/Kriz01
+[3]: https://www.linkedin.com/in/krizeldias/
 
-[1]: https://www.instagram.com/kriz__19/
-[2]: https://www.linkedin.com/in/krizeldias/
-[3]: https://github.com/Kriz01
+
 
 
 <!-- Resources -->
