@@ -3,6 +3,8 @@
 <p>
 <a href="https://www.instagram.com/kriz__19/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/krizeldias/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.youracclaim.com/users/krizel-dias.14ffc02f"><img height="30" src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png"></a>
+  
 </p>
 
 
