@@ -8,7 +8,7 @@
 </p>
 
 
-My name is Krizel Dias and I'm a software engineer. I'm from Goa, and currently working at Persistent systems.
+My name is Krizel Dias and I'm a software engineer.
 
 
 ## 🔧 Technologies & Tools
